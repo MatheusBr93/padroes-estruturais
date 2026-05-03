@@ -11,9 +11,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>abstract-factory</module>
         <module>factory-method</module>
         <module>singleton</module>
+        <module>decorator-project</module>
     </modules>
 
     <properties>
