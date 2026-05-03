@@ -1,0 +1,6 @@
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\app\Main.java
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\context\Order.java
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\strategies\ExpressShipping.java
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\strategies\InternationalShipping.java
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\strategies\NormalShipping.java
+C:\Users\mateu\Downloads\padroes-estruturais\strategy-project\src\main\java\strategy\strategies\ShippingStrategy.java

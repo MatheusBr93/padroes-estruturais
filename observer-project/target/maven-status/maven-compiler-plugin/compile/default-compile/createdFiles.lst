@@ -1,0 +1,6 @@
+observer\observers\TVDisplay.class
+observer\observers\Observer.class
+observer\subject\Subject.class
+observer\observers\PhoneDisplay.class
+observer\subject\WeatherStation.class
+observer\app\Main.class

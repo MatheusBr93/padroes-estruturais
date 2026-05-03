@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton" />
+        <module name="strategy-project" />
         <module name="factory-method" />
         <module name="decorator" />
+        <module name="state-project" />
+        <module name="observer-project" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>

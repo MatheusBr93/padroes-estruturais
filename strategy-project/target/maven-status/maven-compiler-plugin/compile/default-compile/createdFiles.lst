@@ -1,0 +1,6 @@
+strategy\strategies\ShippingStrategy.class
+strategy\app\Main.class
+strategy\strategies\ExpressShipping.class
+strategy\strategies\InternationalShipping.class
+strategy\strategies\NormalShipping.class
+strategy\context\Order.class
