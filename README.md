@@ -16,3 +16,6 @@ Executar Strategy no Maven mvn -pl strategy-project compile exec:java -Dexec.mai
 
 
 Executar Decorator no Maven mvn -pl decorator-project compile exec:java -Dexec.mainClass=decorator.app.Main
+
+
+Executar Chain of Responsibility no Maven mvn -pl chain-of-responsibility-project compile exec:java -Dexec.mainClass=chain.app.Main
