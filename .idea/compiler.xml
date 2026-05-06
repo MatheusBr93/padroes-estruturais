@@ -11,6 +11,7 @@
         <module name="factory-method" />
         <module name="decorator" />
         <module name="state-project" />
+        <module name="chain-of-responsibility-project" />
         <module name="observer-project" />
         <module name="abstract-factory" />
       </profile>

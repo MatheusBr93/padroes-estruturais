@@ -17,6 +17,7 @@
         <module>observer-project</module>
         <module>strategy-project</module>
         <module>state-project</module>
+        <module>chain-of-responsibility-project</module>
     </modules>
 
     <properties>
