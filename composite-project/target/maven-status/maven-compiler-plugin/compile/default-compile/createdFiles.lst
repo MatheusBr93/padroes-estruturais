@@ -1,0 +1,4 @@
+composite\component\FileSystemComponent.class
+composite\app\Main.class
+composite\leaf\File.class
+composite\composite\Folder.class

@@ -1,0 +1,5 @@
+mediator\colleagues\User.class
+mediator\mediator\ChatRoom.class
+mediator\colleagues\ChatUser.class
+mediator\mediator\ChatMediator.class
+mediator\app\Main.class

@@ -18,6 +18,13 @@
         <module>strategy-project</module>
         <module>state-project</module>
         <module>chain-of-responsibility-project</module>
+        <module>builder-project</module>
+        <module>mediator-project</module>
+        <module>template-method-project</module>
+        <module>composite-project</module>
+        <module>facade-project</module>
+
+
     </modules>
 
     <properties>
