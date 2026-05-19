@@ -23,6 +23,8 @@
         <module>template-method-project</module>
         <module>composite-project</module>
         <module>facade-project</module>
+        <module>memento-project</module>
+        <module>visitor-project</module>
 
 
     </modules>

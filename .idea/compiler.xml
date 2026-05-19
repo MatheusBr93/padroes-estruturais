@@ -8,12 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="singleton" />
         <module name="strategy-project" />
-        <module name="factory-method" />
         <module name="decorator" />
-        <module name="state-project" />
+        <module name="composite-project" />
+        <module name="template-method-project" />
         <module name="chain-of-responsibility-project" />
+        <module name="mediator-project" />
         <module name="observer-project" />
         <module name="abstract-factory" />
+        <module name="factory-method" />
+        <module name="state-project" />
+        <module name="facade-project" />
+        <module name="builder-project" />
       </profile>
     </annotationProcessing>
   </component>

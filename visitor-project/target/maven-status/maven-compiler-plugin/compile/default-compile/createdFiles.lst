@@ -1,0 +1,6 @@
+visitor\app\Main.class
+visitor\elements\Electronic.class
+visitor\visitors\DiscountVisitor.class
+visitor\elements\Product.class
+visitor\elements\Book.class
+visitor\visitors\Visitor.class

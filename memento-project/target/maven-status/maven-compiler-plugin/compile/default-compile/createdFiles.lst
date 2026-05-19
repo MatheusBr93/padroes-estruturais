@@ -1,0 +1,4 @@
+memento\app\Main.class
+memento\caretaker\History.class
+memento\memento\EditorMemento.class
+memento\originator\TextEditor.class
