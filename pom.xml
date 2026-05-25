@@ -25,6 +25,9 @@
         <module>facade-project</module>
         <module>memento-project</module>
         <module>visitor-project</module>
+        <module>flyweight-project</module>
+        <module>iterator-project</module>
+        <module>prototype-project</module>
 
 
     </modules>

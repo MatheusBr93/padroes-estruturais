@@ -9,15 +9,20 @@
         <module name="singleton" />
         <module name="strategy-project" />
         <module name="decorator" />
+        <module name="flyweight-project" />
         <module name="composite-project" />
         <module name="template-method-project" />
         <module name="chain-of-responsibility-project" />
         <module name="mediator-project" />
         <module name="observer-project" />
         <module name="abstract-factory" />
+        <module name="memento-project" />
         <module name="factory-method" />
+        <module name="visitor-project" />
         <module name="state-project" />
         <module name="facade-project" />
+        <module name="prototype-project" />
+        <module name="iterator-project" />
         <module name="builder-project" />
       </profile>
     </annotationProcessing>

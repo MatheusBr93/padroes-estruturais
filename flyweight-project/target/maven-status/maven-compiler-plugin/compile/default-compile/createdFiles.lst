@@ -1,0 +1,4 @@
+flyweight\flyweights\TreeType.class
+flyweight\app\Main.class
+flyweight\context\Tree.class
+flyweight\factory\TreeFactory.class
