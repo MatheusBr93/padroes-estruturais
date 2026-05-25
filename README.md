@@ -97,3 +97,27 @@ mvn -pl memento-project compile exec:java -Dexec.mainClass=memento.app.Main
 ```bash
 mvn -pl visitor-project compile exec:java -Dexec.mainClass=visitor.app.Main
 ```
+
+---
+
+# Flyweight
+
+```bash
+mvn -pl flyweight-project compile exec:java -Dexec.mainClass=flyweight.app.Main
+```
+
+---
+
+# Iterator
+
+```bash
+mvn -pl iterator-project compile exec:java -Dexec.mainClass=iterator.app.Main
+```
+
+---
+
+# Prototype
+
+```bash
+mvn -pl prototype-project compile exec:java -Dexec.mainClass=prototype.app.Main
+```
