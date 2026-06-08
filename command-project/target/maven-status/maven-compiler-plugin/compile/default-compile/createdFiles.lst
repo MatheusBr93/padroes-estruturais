@@ -1,0 +1,6 @@
+command\command\TurnOffCommand.class
+command\app\Main.class
+command\command\TurnOnCommand.class
+command\invoker\RemoteControl.class
+command\receiver\Light.class
+command\command\Command.class

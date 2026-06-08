@@ -1,0 +1,4 @@
+proxy\proxy\DocumentProxy.class
+proxy\subject\Document.class
+proxy\app\Main.class
+proxy\real\RealDocument.class

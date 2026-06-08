@@ -1,0 +1,4 @@
+adapter\adaptee\LegacyPaymentSystem.class
+adapter\adapter\PaymentAdapter.class
+adapter\app\Main.class
+adapter\target\PaymentProcessor.class

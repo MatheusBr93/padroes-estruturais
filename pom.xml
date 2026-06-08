@@ -28,6 +28,10 @@
         <module>flyweight-project</module>
         <module>iterator-project</module>
         <module>prototype-project</module>
+        <module>adapter-project</module>
+        <module>command-project</module>
+        <module>proxy-project</module>
+        <module>interpreter-project</module>
 
 
     </modules>
