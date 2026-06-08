@@ -121,3 +121,35 @@ mvn -pl iterator-project compile exec:java -Dexec.mainClass=iterator.app.Main
 ```bash
 mvn -pl prototype-project compile exec:java -Dexec.mainClass=prototype.app.Main
 ```
+
+---
+
+# Adapter
+
+```bash
+mvn -pl adapter-project compile exec:java -Dexec.mainClass=adapter.app.Main
+```
+
+---
+
+# Command
+
+```bash
+mvn -pl command-project compile exec:java -Dexec.mainClass=command.app.Main
+```
+
+---
+
+# Proxy
+
+```bash
+mvn -pl proxy-project compile exec:java -Dexec.mainClass=proxy.app.Main
+```
+
+---
+
+# Interpreter
+
+```bash
+mvn -pl interpreter-project compile exec:java -Dexec.mainClass=interpreter.app.Main
+```
